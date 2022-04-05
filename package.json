@@ -1,0 +1,22 @@
+{
+  "name": "@HyeBinYang/packages-test",
+  "version": "0.0.0",
+  "description": "Test packages",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyeBinYang/packages-test.git"
+  },
+  "author": "robin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HyeBinYang/packages-test/issues"
+  },
+  "homepage": "https://github.com/HyeBinYang/packages-test#readme",
+  "dependencies": {
+    "styled-components": "^5.3.5"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
