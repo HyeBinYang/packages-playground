@@ -1,0 +1,14 @@
+# package
+node_modules
+
+# typescript compile
+build
+
+# vscode
+.vscode
+
+# npm config
+.npmrc
+
+#build
+dist
